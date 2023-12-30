@@ -1,0 +1,14 @@
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\bin\Debug\net8.0\PalindromeExercise.exe
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\bin\Debug\net8.0\PalindromeExercise.deps.json
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\bin\Debug\net8.0\PalindromeExercise.runtimeconfig.json
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\bin\Debug\net8.0\PalindromeExercise.dll
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\bin\Debug\net8.0\PalindromeExercise.pdb
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.AssemblyInfo.cs
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.dll
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\refint\PalindromeExercise.dll
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.pdb
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\PalindromeExercise.genruntimeconfig.cache
+C:\Users\Jon\repos\PalindromeExercise\PalindromeExercise\obj\Debug\net8.0\ref\PalindromeExercise.dll
